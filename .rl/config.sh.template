@@ -1,0 +1,9 @@
+#!/bin/bash
+
+OWNER=your-github-username
+
+REPO=your-repo
+
+ISSUE_NUMBER=your-issue-number
+
+TOKEN=github-token
