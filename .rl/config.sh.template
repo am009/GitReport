@@ -1,4 +1,5 @@
 #!/bin/bash
+# To support python version, use double quote to quote the variables.
 
 OWNER=your-github-username
 
